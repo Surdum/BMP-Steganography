@@ -1,0 +1,7 @@
+C:\Users\Queen\Desktop\steganography\steganography\bin\Release\steganography.exe.config
+C:\Users\Queen\Desktop\steganography\steganography\bin\Release\steganography.exe
+C:\Users\Queen\Desktop\steganography\steganography\bin\Release\steganography.pdb
+C:\Users\Queen\Desktop\steganography\steganography\obj\Release\steganography.csprojAssemblyReference.cache
+C:\Users\Queen\Desktop\steganography\steganography\obj\Release\steganography.csproj.CoreCompileInputs.cache
+C:\Users\Queen\Desktop\steganography\steganography\obj\Release\steganography.exe
+C:\Users\Queen\Desktop\steganography\steganography\obj\Release\steganography.pdb

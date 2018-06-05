@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\steganography\steganography\bin\Debug\steganography.exe.config
+C:\Users\student\Desktop\steganography\steganography\bin\Debug\steganography.exe
+C:\Users\student\Desktop\steganography\steganography\bin\Debug\steganography.pdb
+C:\Users\student\Desktop\steganography\steganography\obj\Debug\steganography.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\steganography\steganography\obj\Debug\steganography.exe
+C:\Users\student\Desktop\steganography\steganography\obj\Debug\steganography.pdb
+C:\Users\Queen\Desktop\steganography\steganography\bin\Debug\steganography.exe.config
+C:\Users\Queen\Desktop\steganography\steganography\bin\Debug\steganography.exe
+C:\Users\Queen\Desktop\steganography\steganography\bin\Debug\steganography.pdb
+C:\Users\Queen\Desktop\steganography\steganography\obj\Debug\steganography.csprojAssemblyReference.cache
+C:\Users\Queen\Desktop\steganography\steganography\obj\Debug\steganography.csproj.CoreCompileInputs.cache
+C:\Users\Queen\Desktop\steganography\steganography\obj\Debug\steganography.exe
+C:\Users\Queen\Desktop\steganography\steganography\obj\Debug\steganography.pdb
